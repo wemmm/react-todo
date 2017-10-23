@@ -11,7 +11,7 @@
 
 ```
 ## React edition
-### I'm sick of angular
+### (I'm sick of angular)
 
 # What?
 
