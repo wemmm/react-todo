@@ -25,7 +25,7 @@ Relearning some React because why not.
 # TODOs:
 
 They look like this:
-![todo](link)
+![todo](https://github.com/wemmm/react-todo/blob/master/todo.png)
 
 
 a e s t h e t i c

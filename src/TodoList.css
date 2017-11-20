@@ -10,9 +10,9 @@
 .todoListMain .header button {
   padding: 10px;
   font-size: 16px;
-  background-color: lawngreen;
+  background-color: aqua;
   color: black;
-  border: 2px solid lawngreen;
+  border: 2px solid aqua;
   border-radius: 0;
 }
 button {
@@ -21,8 +21,8 @@ button {
 }
 .todoListMain .header button:hover {
   background-color: black;
-  border: 2px solid lawngreen;
-  color: lawngreen;
+  border: 2px solid fuchsia;
+  color: fuchsia;
   cursor: pointer;
 }
 .todoListMain .theList {
@@ -31,9 +31,9 @@ button {
   width: 270px;
 }
 .todoListMain .theList li {
-  color: lawngreen;
+  color: aqua;
   background-color: black;
-  border: 2px solid lawngreen;
+  border: 2px solid aqua;
   padding: 15px;
   margin-bottom: 5px;
 }
@@ -53,7 +53,8 @@ li {
   margin-bottom: 10px;
 }
 .todoListMain .theList li:hover {
-  background-color: lawngreen;
+  background-color: fuchsia;
+  border-color: fuchsia;
   color: black;
   cursor: pointer;
 }
@@ -61,7 +62,7 @@ button:focus, input:focus {
   outline:0;
 }
 h1 {
-  color: lawngreen;
+  color: aqua;
   font-size: 55px;
-  text-shadow: 5px 5px dimgray;
+  text-shadow: 5px 5px fuchsia;
 }
