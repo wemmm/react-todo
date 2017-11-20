@@ -1,3 +1,4 @@
+
 ```
 
 888888888888  ,ad8888ba,              88888888ba,      ,ad8888ba,    
@@ -19,9 +20,10 @@ Relearning some React because why not.
 
 # Tech?
 
-* Sails
 * React
 
 # TODOs:
 
 * Make the app (ha ha ha)
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
