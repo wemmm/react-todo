@@ -21,14 +21,14 @@ Relearning some React because why not.
 # Tech?
 
 * React
+* This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 # TODOs:
 
 They look like this:
+
+
 ![todo](https://github.com/wemmm/react-todo/blob/master/todo.png)
 
 
 a e s t h e t i c
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
