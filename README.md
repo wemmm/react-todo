@@ -24,6 +24,11 @@ Relearning some React because why not.
 
 # TODOs:
 
-* Make the app (ha ha ha)
+They look like this:
+![todo](link)
+
+
+a e s t h e t i c
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
